@@ -5,6 +5,7 @@ Today I Learned
 
 ## Category
 - [Spring](#Spring)
+- [Spring](#Spring)
 
 ---
 
