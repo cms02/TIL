@@ -12,6 +12,6 @@ Today I Learned
 <a name="Spring"></a>
 ### Spring
 - [IoC 와 DI의 개념 및 어떻게 동작하는가?](https://github.com/cms02/TIL/blob/main/Spring/IoC-and-DI.md)
-
+- [Spring Bean?](https://github.com/cms02/TIL/blob/main/Spring/Bean.md)
 <a name="Spring-Cloud"></a>
 ### Spring-Cloud
