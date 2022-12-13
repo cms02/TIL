@@ -25,6 +25,9 @@ Spring IoC 컨테이너가 관리하는 자바 객체이다.
 Bean Lite Mode는 CGLIB를 이용하여 바이트 코드 조작을 하지 않는 방식을 의미한다. 이때 스프링 빈에 대해 싱글톤을 보장하지 않는다.
 
 ---
+## Spring Bean Scope?
+
+
 
 ### 참고   
 https://steady-coding.tistory.com/594
