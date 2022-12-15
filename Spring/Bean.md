@@ -30,6 +30,6 @@ Bean Lite Mode는 CGLIB를 이용하여 바이트 코드 조작을 하지 않는
 
 
 ### 참고   
-https://steady-coding.tistory.com/594
-https://www.youtube.com/watch?v=3gURJvJw_T4
+https://steady-coding.tistory.com/594  
+https://www.youtube.com/watch?v=3gURJvJw_T4  
 https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard
