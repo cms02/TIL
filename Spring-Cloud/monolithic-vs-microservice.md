@@ -2,7 +2,9 @@
 
 ### Monolithic
 
-### MSA
+### SOA vs MSA
+
+### Spring Cloud?
 
 ---
 
