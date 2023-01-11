@@ -8,4 +8,5 @@
 
 
 ### 참고
-https://www.youtube.com/watch?v=-2TgkKYmJt4
+https://www.youtube.com/watch?v=-2TgkKYmJt4  
+https://www.youtube.com/watch?v=6QV_JpabO7g
