@@ -18,3 +18,5 @@ Today I Learned
 - [Spring 에서 CORS 에러를 해결하기 위한 방법](https://github.com/cms02/TIL/blob/main/Spring/CORS.md)
 <a name="Spring-Cloud"></a>
 ### Spring-Cloud
+- [SOA vs MSA](https://github.com/cms02/TIL/blob/main/Spring-Cloud/SOA-vs-MSA.md)
+- [Monolithic vs Microservice](https://github.com/cms02/TIL/blob/main/Spring-Cloud/monolithic-vs-microservice.md)
