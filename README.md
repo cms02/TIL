@@ -6,7 +6,7 @@ Today I Learned
 ## Category
 - [Spring](#Spring)
 - [Spring-Cloud](#Spring-Cloud)
-
+- [JAVA](#JAVA)
 ---
 
 <a name="Spring"></a>
