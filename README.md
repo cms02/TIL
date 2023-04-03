@@ -6,7 +6,7 @@ Today I Learned
 ## Category
 - [Spring](#Spring)
 - [Spring-Cloud](#Spring-Cloud)
-
+- [JAVA](#JAVA)
 ---
 
 <a name="Spring"></a>
@@ -28,3 +28,4 @@ Today I Learned
 <a name="JAVA"></a>
 ### JAVA
 - [JVM의 구조와 Java의 실행방식](https://github.com/cms02/TIL/blob/main/JAVA/JVM-Java-Execution.md)
+- [GC란, 필요한 이유 및 동작 방식](https://github.com/cms02/TIL/blob/main/JAVA/GC.md)
