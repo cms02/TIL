@@ -33,3 +33,4 @@ Today I Learned
 - [Overriding & Overloading?](https://github.com/cms02/TIL/blob/main/JAVA/Overriding-Overloading.md)
 - [Abstract_Class-Interface](https://github.com/cms02/TIL/blob/main/JAVA/Abstract_Class-Interface.md)
 - [Static](https://github.com/cms02/TIL/blob/main/JAVA/Static.md)
+- [SOLID](https://github.com/cms02/TIL/blob/main/JAVA/SOLID.md)
