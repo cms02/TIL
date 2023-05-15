@@ -1,5 +1,5 @@
 # JVM 의 구조
-- Class Loader : class JVM 메모리에 로드합니다.
+- Class Loader : class 파일을 JVM 메모리에 로드합니다.
 - Execution Engine : 인터프리터, JIT, compiler 를 이용해 데이터 영역에 배치된 바이트 코드를 실행 및 GC로 메모리 관리합니다.
 - Runtime Data Area: 프로그램 수행을 위해 OS 에서 할당 받는 공간입니다.
 
